@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "url_json">https://gist.githubusercontent.com/KevinMartinezC/2b82173e02f383c2a1d34b888d06cf1d/raw/b9d41418516b3b553235ea01a25cac67cad683ba/lugaresturisticos.json</string>
+</resources>
